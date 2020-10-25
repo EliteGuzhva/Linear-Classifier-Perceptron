@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python==3.4.9.33
